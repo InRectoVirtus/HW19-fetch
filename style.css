@@ -1,0 +1,12 @@
+li {
+    background-color: grey;
+    cursor: pointer;
+}
+li:hover {
+    background-color: green;
+}
+
+
+.container {
+    display: grid;
+}
